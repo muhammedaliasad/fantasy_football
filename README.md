@@ -317,7 +317,6 @@ pytest --cov=. --cov-report=html
 ## API Documentation
 
 - **Postman Collection**: `Fantasy_Football_API.postman_collection.json`
-- **Detailed Docs**: See [API_DOCUMENTATION.md](API_DOCUMENTATION.md)
 
 ## License
 
